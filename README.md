@@ -41,15 +41,6 @@ Abra o arquivo index.html no navegador.
 
 Pronto! O jogo roda diretamente no navegador.
 
-# 🌐 Deploy (opcional)
-Se estiver usando o GitHub Pages, o jogo pode ser acessado por:
-
-# lua
-Copiar código
-https://seu-usuario.github.io/nome-do-repo
-📸 Prévia do projeto (opcional)
-Adicione aqui screenshots quando quiser.
-
 # 📝 Licença
 Este projeto está sob a licença MIT.
 Sinta-se livre para estudar, modificar e evoluir.
