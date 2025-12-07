@@ -10,7 +10,6 @@ A cada tentativa, o jogo informa se o chute foi **maior** ou **menor** que o nú
 - Caixa de entrada para tentativas  
 - Feedback imediato ao jogador  
 - Contador de tentativas  
-- Botão para reiniciar o jogo
 
 ## 🧠 Conceitos praticados
 
